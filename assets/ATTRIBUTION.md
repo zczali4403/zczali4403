@@ -4,11 +4,11 @@ Source: Alibaba Cloud DataV GeoAtlas
 URL: https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json
 Retrieved: 2026-10-06
 
-The static map in `academic-journey-hd.jpg` was exported from the personal homepage. Province rings were projected into a regional SVG view, rounded to one decimal place, and simplified by dropping near-duplicate subpixel vertices. The visualization uses approximate city centers and illustrative curved connections; it does not depict travel routes or precise campus locations.
+The animated map in `academic-journey.gif` was rendered from the personal homepage, with the original route coordinates animated over a static background. Province rings were projected into a regional SVG view, rounded to one decimal place, and simplified by dropping near-duplicate subpixel vertices. The visualization uses approximate city centers and illustrative curved connections; it does not depict travel routes or precise campus locations.
 
 ## Campus photographs
 
-Retrieved 2026-10-06. Photographs are sourced from the schools' public websites; copyrights remain with their respective owners. No open-license claim is made for these institutional photographs. The photographs appear as cropped thumbnails in the static map. Their source pages and original image URLs are listed below.
+Retrieved 2026-10-06. Photographs are sourced from the schools' public websites; copyrights remain with their respective owners. No open-license claim is made for these institutional photographs. The photographs appear as cropped thumbnails in the animated map. Their source pages and original image URLs are listed below.
 
 - **Heze** — Heze No. 1 High School, entrance panorama.
   - Page: https://www.hzyzh.com.cn/index.php/xinkegai

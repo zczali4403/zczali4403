@@ -7,7 +7,7 @@ I work at the intersection of artificial intelligence and biomedicine, in the De
 ## My academic journey
 
 <p align="center">
-  <img src="assets/academic-journey-hd.jpg" width="680" alt="My academic journey from Heze to Chengdu, Shenzhen and Shanghai, with photographs of each school.">
+  <img src="assets/academic-journey.gif" width="100%" alt="My academic journey from Heze to Chengdu, Shenzhen and Shanghai, with photographs of each school.">
 </p>
 
 - **Heze** — Heze No. 1 High School
